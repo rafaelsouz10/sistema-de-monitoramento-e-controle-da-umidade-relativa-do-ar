@@ -1,0 +1,2 @@
+# sistema-de-monitoramento-e-controle-da-umidade-relativa-do-ar
+ Projeto criado para as disciplinas de Redes I e Arquitetura de Computadores, ministradas pelo Prof. Me. Lourivado Pereira, com o intuito de fazer um sistema de monitoramento e controle da umidade relativa do ar, onde o intuito foi desenvolver o conhecimento sobre IoT, banco de dados, hospedagem e sistema embarcado com o Esp-32. Tendo o intuito de controlar e monitorar o sistema pelo site e armazenando todas informações lidas pelo sensor DHT11.
